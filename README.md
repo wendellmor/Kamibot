@@ -9,8 +9,9 @@ Processamento de Linguagem Natural: Utilizando a biblioteca Spacy, o bot analisa
 Como Usar
 Instalação das Dependências:
 
-Certifique-se de ter o Python instalado em seu sistema.
+
 Instale as dependências do projeto executando pip install -r requirements.txt.
+
 Execução do Bot:
 
 Execute o arquivo kami_bot.py em um ambiente Python.
