@@ -6,9 +6,10 @@ Funcionalidades Principais
 Interatividade: O bot permite que o usuário faça perguntas e interaja com ele em tempo real.
 Aprendizado: Se o bot não souber a resposta para uma pergunta, ele solicita ao usuário que forneça uma resposta, contribuindo para a expansão do banco de dados de conhecimento.
 Processamento de Linguagem Natural: Utilizando a biblioteca Spacy, o bot analisa a semelhança entre a pergunta do usuário e as perguntas armazenadas no banco de dados para encontrar a melhor correspondência.
-Como Usar
-Instalação das Dependências:
 
+Como Usar?
+
+Instalação das Dependências:
 
 Instale as dependências do projeto executando pip install -r requirements.txt.
 
@@ -24,6 +25,7 @@ kami_bot.py: O arquivo principal contendo a lógica do bot e a interação com o
 knowledge_database.json: Um arquivo JSON que armazena o banco de dados de perguntas e respostas.
 README.md: Este arquivo, fornecendo uma visão geral da aplicação, instruções de uso e outras informações relevantes.
 requirements.txt: Lista de dependências do projeto para instalação fácil.
-Contribuindo
+
+
 Contribuições são bem-vindas! Se você encontrar um bug ou tiver sugestões para melhorar o bot, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
