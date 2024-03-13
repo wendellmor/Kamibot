@@ -1,20 +1,20 @@
-Kami Bot
+  **Kami Bot**
 
 O Kami Bot é um chatbot simples desenvolvido em Python que utiliza o processamento de linguagem natural (NLP) para interagir com o usuário e fornecer respostas com base em um banco de dados de conhecimento. Ele permite ao usuário conversar com o bot, fazer perguntas e receber respostas relevantes.
 
 Funcionalidades Principais
 
-Interatividade: O bot permite que o usuário faça perguntas e interaja com ele em tempo real.
+***Interatividade: O bot permite que o usuário faça perguntas e interaja com ele em tempo real.
 Aprendizado: Se o bot não souber a resposta para uma pergunta, ele solicita ao usuário que forneça uma resposta, contribuindo para a expansão do banco de dados de conhecimento.
-Processamento de Linguagem Natural: Utilizando a biblioteca Spacy, o bot analisa a semelhança entre a pergunta do usuário e as perguntas armazenadas no banco de dados para encontrar a melhor correspondência.
+Processamento de Linguagem Natural: Utilizando a biblioteca Spacy, o bot analisa a semelhança entre a pergunta do usuário e as perguntas armazenadas no banco de dados para encontrar a melhor correspondência.***
 
-Como Usar?
+**Como Usar?**
 
-Instalação das Dependências:
+**Instalação das Dependências:**
 
-Instale as dependências do projeto executando pip install -r requirements.txt.
+Instale as dependências do projeto executando **pip install -r requirements.txt.**
 
-Execução do Bot:
+**Execução do Bot:**
 
 Execute o arquivo kami_bot.py em um ambiente Python.
 Digite suas perguntas quando solicitado. Você pode encerrar a conversa digitando "quit".
@@ -28,5 +28,5 @@ README.md: Este arquivo, fornecendo uma visão geral da aplicação, instruçõe
 requirements.txt: Lista de dependências do projeto para instalação fácil.
 
 
-Contribuições são bem-vindas! Se você encontrar um bug ou tiver sugestões para melhorar o bot, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+***Contribuições são bem-vindas! Se você encontrar um bug ou tiver sugestões para melhorar o bot, sinta-se à vontade para abrir uma issue ou enviar um pull request.***
 
