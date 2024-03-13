@@ -1,4 +1,5 @@
 Kami Bot
+
 O Kami Bot é um chatbot simples desenvolvido em Python que utiliza o processamento de linguagem natural (NLP) para interagir com o usuário e fornecer respostas com base em um banco de dados de conhecimento. Ele permite ao usuário conversar com o bot, fazer perguntas e receber respostas relevantes.
 
 Funcionalidades Principais
