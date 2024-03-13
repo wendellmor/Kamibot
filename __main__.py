@@ -60,7 +60,7 @@ def kami_bot():
                 knowledge_base["questions"].append({'question': user_input, "answer": nova_resposta})
                 save_knowledge_database('knowledge_database.json', knowledge_base)
                 print("Valeu agora eu sei de uma coisa nova!")
-# Dar load na sua database, com base no arquivo json (é possivel trocar para outro arquivo caso necessário)
+# Dar load na sua database.json
 if __name__ == '__main__':
     knowledge_base: dict = load_knowledge_database("knowledge_database.json")
    # rodar o bot
