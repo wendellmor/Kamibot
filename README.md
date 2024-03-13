@@ -6,7 +6,7 @@ Funcionalidades Principais
 
 ***Interatividade: O bot permite que o usuário faça perguntas e interaja com ele em tempo real.
 Aprendizado: Se o bot não souber a resposta para uma pergunta, ele solicita ao usuário que forneça uma resposta, contribuindo para a expansão do banco de dados de conhecimento.
-Processamento de Linguagem Natural: Utilizando a biblioteca Spacy, o bot analisa a semelhança entre a pergunta do usuário e as perguntas armazenadas no banco de dados para encontrar a melhor correspondência.***
+Processamento de Linguagem Natural: Utilizando a biblioteca Spacy, o bot analisa a semelhança entre a pergunta do usuário e as perguntas armazenadas no banco de dados para encontrar a melhor correspondência, você tambem pode adicionar diretamente ao banco de dados.***
 
 **Como Usar?**
 
