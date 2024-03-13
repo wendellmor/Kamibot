@@ -1,0 +1,2 @@
+pip install Spacy
+pip install difflib
