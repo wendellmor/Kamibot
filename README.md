@@ -25,5 +25,3 @@ requirements.txt: Lista de dependências do projeto para instalação fácil.
 Contribuindo
 Contribuições são bem-vindas! Se você encontrar um bug ou tiver sugestões para melhorar o bot, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-Licença
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.
